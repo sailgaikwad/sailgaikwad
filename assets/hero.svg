@@ -53,7 +53,7 @@
 
     <!-- Text Name Clip for Rising Reveal -->
     <clipPath id="hero-name-clip">
-      <rect x="42" y="65" width="530" height="74" rx="4"/>
+      <rect x="-5" y="65" width="580" height="74" rx="4"/>
     </clipPath>
     
     <!-- Portrait Inner Clip -->

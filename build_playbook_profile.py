@@ -85,7 +85,7 @@ def build_hero():
 
     <!-- Text Name Clip for Rising Reveal -->
     <clipPath id="{prefix}-name-clip">
-      <rect x="42" y="65" width="530" height="74" rx="4"/>
+      <rect x="-5" y="65" width="580" height="74" rx="4"/>
     </clipPath>
     
     <!-- Portrait Inner Clip -->
@@ -996,6 +996,19 @@ def build_readme():
 
 <br>
 
+<!-- ================= 06 VERIFIED PROFILE IDENTITY ================= -->
+<p align="center">
+  <a href="https://linkedin.com/in/sailgaikwad" target="_blank">
+    <img src="./assets/sail.png" alt="Sail Gaikwad — Security Researcher & Systems Architect" width="240" />
+  </a>
+</p>
+<p align="center">
+  <strong>Sail Gaikwad</strong><br>
+  <sub>Cybersecurity Researcher · AI Safety &amp; LLM Defense · Autonomous Systems Builder</sub>
+</p>
+
+<br>
+
 <!-- ================= CLICKABLE SOCIAL DISPATCH BUTTONS ================= -->
 <p align="center">
   <a href="https://linkedin.com/in/sailgaikwad" target="_blank">
@@ -1144,6 +1157,15 @@ def build_preview_html():
       <img src="./assets/connect.svg?v=1" alt="Connect">
     </div>
 
+    <!-- 06 Verified Profile Identity -->
+    <div style="display: flex; flex-direction: column; align-items: center; margin: 12px 0 6px;">
+      <a href="https://linkedin.com/in/sailgaikwad" target="_blank">
+        <img src="./assets/sail.png" alt="Sail Gaikwad" style="width: 240px; height: auto; border-radius: 24px; box-shadow: 0 10px 30px rgba(0,0,0,0.6);" />
+      </a>
+      <p style="margin-top: 12px; font-size: 15px; font-weight: 600; color: #f0f4fc;">Sail Gaikwad</p>
+      <p style="font-size: 12px; color: #94a3b8; margin-top: 4px;">Cybersecurity Researcher · AI Safety &amp; LLM Defense · Autonomous Systems</p>
+    </div>
+
     <!-- Clickable Social Links -->
     <div class="links-bar">
       <a href="https://linkedin.com/in/sailgaikwad" target="_blank">
@@ -1198,7 +1220,7 @@ def main():
     print(f"Creating upload-ready ZIP: {zip_path}...")
     with zipfile.ZipFile(zip_path, "w", zipfile.ZIP_DEFLATED) as zipf:
         zipf.write(os.path.join(WORKSPACE_DIR, "README.md"), arcname="README.md")
-        for fname in ["hero.svg", "about-life.svg", "stack.svg", "id-dashboard.svg", "connect.svg", "id.png", "right_pointing.png"]:
+        for fname in ["hero.svg", "about-life.svg", "stack.svg", "id-dashboard.svg", "connect.svg", "id.png", "right_pointing.png", "sail.png"]:
             p = os.path.join(ASSETS_DIR, fname)
             if os.path.exists(p):
                 zipf.write(p, arcname=f"assets/{fname}")

@@ -17,6 +17,19 @@
 
 <br>
 
+<!-- ================= 06 VERIFIED PROFILE IDENTITY ================= -->
+<p align="center">
+  <a href="https://linkedin.com/in/sailgaikwad" target="_blank">
+    <img src="./assets/sail.png" alt="Sail Gaikwad — Security Researcher & Systems Architect" width="240" />
+  </a>
+</p>
+<p align="center">
+  <strong>Sail Gaikwad</strong><br>
+  <sub>Cybersecurity Researcher · AI Safety &amp; LLM Defense · Autonomous Systems Builder</sub>
+</p>
+
+<br>
+
 <!-- ================= CLICKABLE SOCIAL DISPATCH BUTTONS ================= -->
 <p align="center">
   <a href="https://linkedin.com/in/sailgaikwad" target="_blank">
