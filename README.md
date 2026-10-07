@@ -1,64 +1,56 @@
 <div align="center">
 
-<!-- ================= PHASE 1: ANIMATED TERMINAL BANNER ================= -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="light.svg">
-  <img alt="Sail Gaikwad Live Profile Banner" src="dark.svg" width="100%">
-</picture>
+<!-- ================= 01 HERO SECTION ================= -->
+![Intro](./assets/hero.svg?v=1)
 
-<br><br>
+<!-- ================= 02 CAPABILITIES & PASSIONS CAROUSEL ================= -->
+![About](./assets/about-life.svg?v=1)
 
-<!-- ================= PHASE 4: SOCIAL BADGES ================= -->
-<a href="https://linkedin.com/in/sailgaikwad" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-&nbsp;&nbsp;
-<a href="mailto:sailgaikwad108@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981" alt="Email" />
-</a>
-&nbsp;&nbsp;
-<a href="https://facebook.com/sailgaikwad" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-0A101F?style=for-the-badge&logo=facebook&logoColor=22D3EE" alt="Facebook" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/sailgaikwad" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-0A101F?style=for-the-badge&logo=safari&logoColor=10B981" alt="Portfolio" />
-</a>
+<!-- ================= 03 TECH RADAR & ORBITS ================= -->
+![Stack](./assets/stack.svg?v=1)
 
-<br><br>
+<!-- ================= 04 PENDULUM ID DASHBOARD ================= -->
+![ID](./assets/id-dashboard.svg?v=1)
 
-<!-- ================= PHASE 2: STATS CARDS ================= -->
-<!-- 1. Full-Width Streak Card -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=sailgaikwad&theme=dark&background=0A101F&border=22D3EE&stroke=22D3EE&ring=10B981&fire=10B981&currStreakNum=22D3EE&sideNums=94A3B8&currStreakLabel=10B981&sideLabels=94A3B8&dates=64748B">
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=sailgaikwad&background=F8FAFC&border=0891B2&stroke=0891B2&ring=059669&fire=059669&currStreakNum=0891B2&sideNums=64748B&currStreakLabel=059669&sideLabels=64748B&dates=94A3B8">
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=sailgaikwad&theme=dark&background=0A101F&border=22D3EE&stroke=22D3EE&ring=10B981&fire=10B981&currStreakNum=22D3EE&sideNums=94A3B8&currStreakLabel=10B981&sideLabels=94A3B8&dates=64748B" width="100%">
-</picture>
+<!-- ================= 05 CONNECT WITH POINTING CHARACTER ================= -->
+![Connect](./assets/connect.svg?v=1)
 
 <br>
 
-<!-- 2. Self-Hosted Stats & Top Languages Side-by-Side (49% width each) -->
-<!-- Replace https://YOUR-VERCEL-APP.vercel.app with your deployed Vercel URL -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://YOUR-VERCEL-APP.vercel.app/api?username=sailgaikwad&show_icons=true&hide_border=false&hide_rank=true&bg_color=0A101F&border_color=22D3EE&title_color=22D3EE&icon_color=10B981&text_color=94A3B8">
-  <source media="(prefers-color-scheme: light)" srcset="https://YOUR-VERCEL-APP.vercel.app/api?username=sailgaikwad&show_icons=true&hide_border=false&hide_rank=true&bg_color=F8FAFC&border_color=0891B2&title_color=0891B2&icon_color=059669&text_color=64748B">
-  <img alt="GitHub Stats" src="https://YOUR-VERCEL-APP.vercel.app/api?username=sailgaikwad&show_icons=true&hide_border=false&hide_rank=true&bg_color=0A101F&border_color=22D3EE&title_color=22D3EE&icon_color=10B981&text_color=94A3B8" width="49%">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://YOUR-VERCEL-APP.vercel.app/api/top-langs/?username=sailgaikwad&layout=compact&hide_border=false&bg_color=0A101F&border_color=22D3EE&title_color=22D3EE&text_color=94A3B8">
-  <source media="(prefers-color-scheme: light)" srcset="https://YOUR-VERCEL-APP.vercel.app/api/top-langs/?username=sailgaikwad&layout=compact&hide_border=false&bg_color=F8FAFC&border_color=0891B2&title_color=0891B2&text_color=64748B">
-  <img alt="Top Languages" src="https://YOUR-VERCEL-APP.vercel.app/api/top-langs/?username=sailgaikwad&layout=compact&hide_border=false&bg_color=0A101F&border_color=22D3EE&title_color=22D3EE&text_color=94A3B8" width="49%">
-</picture>
+<!-- ================= CLICKABLE SOCIAL DISPATCH BUTTONS ================= -->
+<p align="center">
+  <a href="https://linkedin.com/in/sailgaikwad" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/sailgaikwad" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-070B16?style=for-the-badge&logo=github&logoColor=247BFF" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:sailgaikwad108@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-FF354F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://facebook.com/sailgaikwad" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+</p>
 
-<br><br>
+</div>
 
-<!-- ================= PHASE 3: CONTRIBUTION SNAKE ================= -->
-<!-- Only active once the snake GitHub Action runs green on your repository -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sailgaikwad/sailgaikwad/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sailgaikwad/sailgaikwad/output/github-contribution-grid-snake-light.svg">
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/sailgaikwad/sailgaikwad/output/github-contribution-grid-snake-dark.svg" width="100%">
-</picture>
+---
 
+### 🛡️ Featured Work & Research Repositories
+
+| Repository | Domain / Focus | Key Technologies | Status |
+| :--- | :--- | :--- | :--- |
+| [**ai-supply-chain-security**](https://github.com/sailgaikwad/ai-supply-chain-security) | AI Model & Dependency Integrity, Vulnerability Scanning | Python, ML Security, Docker | ⚡ Active |
+| [**FitnessTracker**](https://github.com/sailgaikwad/FitnessTracker) | Health Metrics, Automated Tracking & Analytics Engine | Python, Data Processing, SQLite | ⚡ Active |
+| [**NoteVault**](https://github.com/sailgaikwad/NoteVault) | Encrypted Note Storage, Client-Side Security & State | JavaScript, Web Crypto, Node.js | ⚡ Active |
+| [**Mayur-Driving-School**](https://github.com/sailgaikwad/Mayur-Driving-School) | Mobile Scheduling & Management Application | Kotlin, Android SDK, Gradle | ⚡ Active |
+
+---
+
+<div align="center">
+  <sub>Built with the <strong>Profile Playbook</strong> · Deep Navy <code>#070B16</code> · Electric Blue <code>#247BFF</code> · Crimson <code>#FF354F</code></sub>
 </div>

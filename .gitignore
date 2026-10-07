@@ -1,34 +1,5 @@
-# Python cache
+*.pdf
+*.zip
 __pycache__/
 *.pyc
-
-# IDE & agent settings
-.claude/
-.vscode/
-
-# Verification & scratch frames
-chk_*.png
-clean_intro_*.png
-intro_t_*.png
-test_*.png
-test_*.svg
-test_*.py
-dark_t_*.png
-light_t_*.png
-*_rendered.png
-*_dots_900.png
-dark_dither.png
-light_dither.png
-segmented_check*.png
-crop_test*.png
-find_culprit.py
-check_intro_timing.py
-test_vis.*
-render_frames.py
-verify_banner.py
-experiment_banding.py
-preprocessed_gray.png
-face_zoom.png
-mask_test.png
-calibrated_light_dither.png
-logo_*_test.png
+preview.html
